@@ -1,4 +1,6 @@
-﻿using System;
+﻿// sumber: https://www.youtube.com/watch?v=cJfRfagu7cw
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
